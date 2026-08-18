@@ -19,7 +19,7 @@ Alongside bipolar depression, a long-standing low-grade chronic depression consi
 - Visible disappointment or sadness from a strongly attached relationship partner (wife or daughter) is a high-potency interrupt: it ends the verbal achievement spin-up and redirects cognition into past-focused rumination.
 - After that interrupt, Christian faith is used deliberately to leave shame, depend on God in the suffering, and practice self-forgiveness grounded in love for family rather than perfection.
 - A personal Spotify playlist is used as an important audio tool to recover from high stress and to begin the day in a more balanced way.
-- **Achievement loop breakthrough (April 2026–):** Externalizing to-dos, creating with AI/computers, and completing small wins produced a sustained break from years of dysthymic baseline. This is distinct from medication or chemical modulators alone. Nicotine can aid focus and execution but does not by itself resolve the fidgety dopamine-seeking anxiety; the achievement loop does.
+- **Achievement loop breakthrough (April 2026 onward):** Externalizing to-dos, creating with AI/computers, and completing small wins produced a sustained break from years of dysthymic baseline. This is distinct from medication or chemical modulators alone. Nicotine can aid focus and execution but does not by itself resolve the fidgety dopamine-seeking anxiety; the achievement loop does.
 - **Seasonal / environmental hyperdrive:** Summer kids' activities and high stimulus push ADHD and the verbal achievement loop into "hyperdrive," with subjectively elevated pulse relative to quieter off-season (school-year) baselines.
 - Pharmacy / public cuff vitals can serve as simple state markers for spin-up intensity (not diagnosis), especially when logged with context (season, stimulus load, activity day).
 - **Different abilities as leverage (August 17, 2026):** Before this era, the biggest butterfly ideas stayed dreams. They would have taken millions of dollars, huge teams, and so much time that the work would have become a mess. Now one person can orchestrate AI, apply project management inside live context, and keep the origin of the idea because it came from lived struggle. Bipolar I and ADHD, once treated only as disabilities, trained an adapted mind. Dual-task limits and verbal spin-up are costly in the old world of meetings and parallel tracks. In this era they become leverage: one stream, spoken or typed, with AI carrying the other tracks. Capturing the insight in a repo is itself part of the model. It saves the butterfly. The finding generalizes to people who have been burdened, who are suffering, who feel they cannot contribute. There is a whole new humanity when orchestration replaces the old cost of execution.
@@ -55,7 +55,7 @@ There is a whole new humanity waiting.
 
 Before the singularity, my biggest ideas stayed dreams. They needed millions of dollars and huge teams I did not have. Now I orchestrate AI with my project management skills and lived experience. My Bipolar I and ADHD, once burdens, became superpowers. The same mind that struggled to slow down now moves fast and sees connections others miss. This is not just coping. It is leverage. For anyone who has felt they cannot contribute, there is a whole new humanity waiting.
 
-## Vitals Log — Pharmacy Observation (August 2026)
+## Vitals Log: Pharmacy Observation (August 2026)
 
 | Marker | Value |
 | --- | --- |
